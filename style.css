@@ -1,0 +1,11 @@
+.jumbotron{
+    background-color: black;
+    color:white;
+    border-radius: 10px;
+}
+
+#tableHeader{
+    background-color: darkblue;
+    color:white;
+    border-radius: 10px;
+}
